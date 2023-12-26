@@ -1,0 +1,16 @@
+C:\Users\Computer\source\repos\Magic_Numbers\bin\Debug\net5.0\Magic_Numbers.exe
+C:\Users\Computer\source\repos\Magic_Numbers\bin\Debug\net5.0\Magic_Numbers.deps.json
+C:\Users\Computer\source\repos\Magic_Numbers\bin\Debug\net5.0\Magic_Numbers.runtimeconfig.json
+C:\Users\Computer\source\repos\Magic_Numbers\bin\Debug\net5.0\Magic_Numbers.runtimeconfig.dev.json
+C:\Users\Computer\source\repos\Magic_Numbers\bin\Debug\net5.0\Magic_Numbers.dll
+C:\Users\Computer\source\repos\Magic_Numbers\bin\Debug\net5.0\ref\Magic_Numbers.dll
+C:\Users\Computer\source\repos\Magic_Numbers\bin\Debug\net5.0\Magic_Numbers.pdb
+C:\Users\Computer\source\repos\Magic_Numbers\obj\Debug\net5.0\Magic_Numbers.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\Magic_Numbers\obj\Debug\net5.0\Magic_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\Magic_Numbers\obj\Debug\net5.0\Magic_Numbers.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\Magic_Numbers\obj\Debug\net5.0\Magic_Numbers.AssemblyInfo.cs
+C:\Users\Computer\source\repos\Magic_Numbers\obj\Debug\net5.0\Magic_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\Magic_Numbers\obj\Debug\net5.0\Magic_Numbers.dll
+C:\Users\Computer\source\repos\Magic_Numbers\obj\Debug\net5.0\ref\Magic_Numbers.dll
+C:\Users\Computer\source\repos\Magic_Numbers\obj\Debug\net5.0\Magic_Numbers.pdb
+C:\Users\Computer\source\repos\Magic_Numbers\obj\Debug\net5.0\Magic_Numbers.genruntimeconfig.cache
